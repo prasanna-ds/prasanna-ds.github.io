@@ -2,7 +2,7 @@
 layout: post
 title:  "First post on my blog site."
 date:   2020-04-09 08:21:00 +0000
-categories: [ruby]
+categories: [general]
 ---
 
 Hello!!!! It's my first post on my blog site!!!! 
