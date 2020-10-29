@@ -13,16 +13,16 @@ To be brief, I started this journey as a mainframe developer in the year 2009. I
 
 Down the years, I started to work on Spark, Kafka, AWS, Docker, Python, Scala, Node.js, and became comfortable of the following exhaustive list,
 
-Bigdata Processing Engines: Hadoop, Spark
-Streaming Engines: Kafka Streams, Spark Streaming
-Cloud: AWS
-Languages: Scala, Python, Node.js
-IaC: Terraform
-CI/CD: Buildkite, Bamboo 
-Deployments: Docker, Kubernetes
-Monitoring: Prometheus, Grafana
-NoSQL: HBase, ElasticSearch
-Workflow Orchestration: Airflow
+Bigdata Processing Engines: Hadoop, Spark<br/>
+Streaming Engines: Kafka Streams, Spark Streaming<br/>
+Cloud: AWS<br/>
+Languages: Scala, Python, Node.js<br/>
+IaC: Terraform<br/>
+CI/CD: Buildkite, Bamboo<br/>
+Deployments: Docker, Kubernetes<br/>
+Monitoring: Prometheus, Grafana<br/>
+NoSQL: HBase, ElasticSearch<br/>
+Workflow Orchestration: Airflow<br/>
 
 
 Am a jack of all guy, So I always try to learn things deeper to be more than just a jack!
@@ -30,6 +30,5 @@ Am a jack of all guy, So I always try to learn things deeper to be more than jus
 
 I will try to be disciplined by posting a few times in a month at the least. My posts would be usually around the above list and could be of any level from beginner to intermediate. Because everyone is a learner their whole life and let's be a learner!!!
 
-See you soon !!!
-
+See you soon !!!<br/>
 Prasanna
