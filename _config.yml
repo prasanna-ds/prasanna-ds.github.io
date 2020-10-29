@@ -1,10 +1,9 @@
 title: Stack Problems
 description: My Personal Stack Problems
 author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+github: https://github.com/prasanna-ds
+about: I'm a Data Engineer, Programmer. I work on data related tech stack, Cloud, Python and Scala
+disqus_shortname: prasanna
 
 enableTags: true
 tagarray: []
@@ -15,20 +14,10 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/prasanna-dhongudi-sudhindrakumar-67939797/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+      link: "https://github.com/prasanna-ds"
 
 urls:
     - text: About Me
@@ -38,7 +27,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://prasanna-ds.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
