@@ -41,17 +41,17 @@ Limits and isolates the resource usage, CPU, memory, I/O, the network of a proce
 
 Isolates the global system resources that it makes it appear for a process that they have their own isolated instance of the global system in the namespace. There are types of namespaces,
 
-pid - Process Ids (process ids are usually nested).
+*pid* - Process Ids (process ids are usually nested).
 
-mnt - Isolates the mount point for the filesystem.
+*mnt* - Isolates the mount point for the filesystem.
 
-ipc - Isolates the interprocess communication resources.
+*ipc* - Isolates the interprocess communication resources.
 
-user - Responsible for per-namespace mapping of userIds and groupIds.
+*user* - Responsible for per-namespace mapping of userIds and groupIds.
 
-uts - Responsible for domain and hostname isolations.
+*uts* - Responsible for domain and hostname isolations.
 
-network - Virtualizes the network stack (for e.g. ports)
+*network* - Virtualizes the network stack (for e.g. ports)
 
 So, in short,
 
