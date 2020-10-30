@@ -17,19 +17,19 @@ First of all, Containerization is not new!
 
 Yes, containers have been around for a long time. There is always some level of isolation in all the operating systems. Let's see how containers have evolved over time,
 
-1979 - chroot (change root) - Changes the root directory for the running process and its child processes.
+*1979 - chroot* (change root) - Changes the root directory for the running process and its child processes.
 
-2000 - Jails - Built upon the chroot, as with chroot, the isolations are limited to only the filesystem and the system resources, networks are shared by the chrooted processes and the other processes of the host system. Also, Chrooted processes are not secure that one can get out of the isolation. So, jails provide more isolation in terms of system resources and networking subsystems.
+*2000 - Jails* - Built upon the chroot, as with chroot, the isolations are limited to only the filesystem and the system resources, networks are shared by the chrooted processes and the other processes of the host system. Also, Chrooted processes are not secure that one can get out of the isolation. So, jails provide more isolation in terms of system resources and networking subsystems.
 
-2007 - LXC - Linux containers - They provide system-level virtualization for running isolated containers in a single Linux kernel.
+*2007 - LXC* - Linux containers - They provide system-level virtualization for running isolated containers in a single Linux kernel.
 
-2009 - Mesos - Uses Linux cgroups for CPU, memory and I/O isolation.
+*2009 - Mesos* - Uses Linux cgroups for CPU, memory and I/O isolation.
 
-2013 - LMCTFY - by Google, an acronym for Let Me Contain That For You, OS level virtualization based on Linux Cgroups which was later outsourced to Docker Inc.
+*2013 - LMCTFY* - by Google, an acronym for Let Me Contain That For You, OS level virtualization based on Linux Cgroups which was later outsourced to Docker Inc.
 
-2013 - Docker by Docker Inc - Container system, which initially used LXC containers and moved on with their own https://www.docker.com/blog/docker-0-9-introducing-execution-drivers-and-libcontainer/ and now they call it as runc https://github.com/opencontainers/runc which is based on OCI specifications.
+*2013 - Docker by Docker Inc* - Container system, which initially used LXC containers and moved on with their own https://www.docker.com/blog/docker-0-9-introducing-execution-drivers-and-libcontainer/ and now they call it as runc https://github.com/opencontainers/runc which is based on OCI specifications.
 
-2015 - Kubernetes - Container management/orchestration system for application deployments.
+*2015 - Kubernetes* - Container management/orchestration system for application deployments.
 
 So, now we know what is a container and how containers have evolved, we need to know what makes up a container,
 
