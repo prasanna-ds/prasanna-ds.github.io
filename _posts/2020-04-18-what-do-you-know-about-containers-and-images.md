@@ -61,6 +61,8 @@ Namespaces limit what we can see of the global system.
 
 To illustrate both of them in a diagram(i feel that cgroup is also part of the namespace),
 
+![Containers](https://raw.githubusercontent.com/prasanna-ds/agusmakmun.github.io/master/static/img/_posts/Containers.png)
+
 Now that, we know what is a container and what makes up a container, let's look at what an image is,
 
 ## Images:
